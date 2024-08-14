@@ -8,6 +8,6 @@ def get_matrix(n, m, value):
             matrix[i].append(value)
         print(matrix)
 
-get_matrix(4,6,8)
 
+get_matrix(4, 6, 8)
 
